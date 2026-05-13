@@ -1,0 +1,16 @@
+# Vivado / FPGA ignores
+*.jou
+*.log
+*.pb
+*.wdb
+*.str
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+# Python ignores
+__pycache__/
+*.pyc
