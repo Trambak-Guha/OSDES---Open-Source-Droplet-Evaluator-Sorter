@@ -1,7 +1,7 @@
 # OSDES: Open-Source Droplet Evaluator-Sorter
 
 ## Overview
-OSDES is a high-throughput, open-source hardware and software pipeline designed for biomedical instrumentation, specifically targeting microfluidic droplet evaluation and sorting. 
+OSDES is an open-source hardware and software pipeline designed for high throughput screening,specifically targeting microfluidic droplet evaluation and sorting.
 
 The system relies on an FPGA-driven backend for real-time digital signal processing and hardware-level decision-making, coupled with a Python-based graphical frontend for live telemetry visualization and data logging.
 
